@@ -42,7 +42,11 @@ git clone https://github.com/CQRhinoZ/FSDENet
 ```
 
 Feel free to contact us:
+
 Xu ZHANG, Ph.D, Professor
+
 Chongqing University of Posts and Telecommunications
+
 Email: zhangx@cqupt.edu.cn
+
 Website: https://faculty.cqupt.edu.cn/zhangx/zh_CN/index.htm
