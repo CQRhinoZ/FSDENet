@@ -1,6 +1,6 @@
 # Frequency-Spatial Decoupled Enhancement Network for Cross-Modality Person Re Identification
 
-This is a pytorch implementation of 《Frequency-Spatial Decoupled Enhancement Network for Cross-Modality Person Re Identification》(Pattern Recognition). 
+This is a pytorch implementation of 《Frequency-Spatial Decoupled Enhancement Network for Cross-Modality Person Re Identification》(Pattern Recognition, under review). 
 
 
 ## Abstract
