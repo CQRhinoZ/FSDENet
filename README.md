@@ -19,10 +19,10 @@ Visible–infrared person re-identification (VI-ReID) aims to match pedestrian i
 
 - (3) LLCM Dataset [5]: The LLCM dataset can be downloaded by sending a signed [dataset release agreement](https://github.com/ZYK100/LLCM/blob/main/Agreement/LLCM%20DATASET%20RELEASE%20AGREEMENT.pdf) copy to zhangyk@stu.xmu.edu.cn. 
 
-## Architecture
+## Performance Visualization
 
 ```
-<TBD>
+See [website](img/img_rank.pdf)
 ```
 
 ## Installation
