@@ -22,7 +22,7 @@ Visible–infrared person re-identification (VI-ReID) aims to match pedestrian i
 ## Performance Visualization
 
 ```
-See [website](img/img_rank.pdf)
+See img/img_rank.pdf
 ```
 
 ## Installation
