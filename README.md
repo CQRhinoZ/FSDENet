@@ -1,6 +1,7 @@
 # Frequency-Spatial Decoupled Enhancement Network for Cross-Modality Person Re Identification
 
 This is a pytorch implementation of 《Frequency-Spatial Decoupled Enhancement Network for Cross-Modality Person Re Identification》(Pattern Recognition, under review). 
+
 This code is based on mangye16, ZYK100 [1, 5].
 
 ## Abstract
@@ -81,7 +82,7 @@ python test.py --mode all --tvsearch True --resume 'model_path' --gpu 0 --datase
 [5] Zhang Y, Wang H. Diverse embedding expansion network and low-light cross-modality benchmark for visible-infrared person re-identification[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023: 2153-2162.
 
 
-
+## Contact
 Feel free to contact us:
 
 Xu ZHANG, Ph.D, Professor
